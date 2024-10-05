@@ -1,1 +1,11 @@
 @charset "utf-8";
+
+.board{
+    width: 50rem;
+    height: 50rem;
+}
+
+.btn{
+    width: 5rem;
+    height: 5rem;    
+}
